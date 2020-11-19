@@ -1,5 +1,11 @@
 package com.ajiranet;
 
+/**
+ * Device class defines properties of a device
+ * 
+ * @author Preetha K
+ *
+ */
 public class Device {
 	
 	private String name;

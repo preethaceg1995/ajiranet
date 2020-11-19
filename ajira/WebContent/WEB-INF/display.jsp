@@ -6,7 +6,7 @@
    </head>
    
    <body>
-   	  <h2>${code}</h2>
+   	  <h2>HTTP Response Code : ${code}</h2>
       <h2>${message}</h2>
    </body>
 </html>
